@@ -1,11 +1,11 @@
 {
-    "name": "Kalukunda/sparrowsms",
+    "name": "sk/sparrowsms",
     "description": "send sms using sparrow SMS",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Kalukunda\\SparrowSms\\": "src/"
+            "Sk\\SparrowSms\\": "src/"
         }
     },
     "authors": [
@@ -18,13 +18,13 @@
     "require": {},
     "autoload-dev": {
         "psr-4": {
-        "Kalukunda\\SparrowSms\\": "src/"
+        "Sk\\SparrowSms\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Kalukunda\\SparrowSms\\SparrowSmsServiceProvider"
+                "Sk\\SparrowSms\\SparrowSmsServiceProvider"
             ]
         }
     }

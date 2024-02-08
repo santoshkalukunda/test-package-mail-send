@@ -1,6 +1,6 @@
 <?php
 
-namespace Kalukunda\SparrowSms\Mail;
+namespace Sk\SparrowSms\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

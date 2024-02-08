@@ -1,6 +1,6 @@
 <?php
 
-namespace Kalukunda\SparrowSms;
+namespace Sk\SparrowSms;
 
 use Illuminate\Support\ServiceProvider;
 
