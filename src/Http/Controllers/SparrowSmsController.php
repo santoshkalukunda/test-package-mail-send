@@ -1,12 +1,12 @@
 <?php
 
-namespace Sk\SparrowSms\Http\Controllers;
+namespace Kalukunda\SparrowSms\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
-use Sk\SparrowSms\Mail\SparrowMail;
-use Sk\SparrowSms\Models\SparrowSms;
+use Kalukunda\SparrowSms\Mail\SparrowMail;
+use Kalukunda\SparrowSms\Models\SparrowSms;
 
 class SparrowSmsController extends Controller
 {

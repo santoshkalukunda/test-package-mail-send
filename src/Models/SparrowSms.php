@@ -1,6 +1,6 @@
 <?php
 
-namespace Sk\SparrowSms\Models;
+namespace Kalukunda\SparrowSms\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
